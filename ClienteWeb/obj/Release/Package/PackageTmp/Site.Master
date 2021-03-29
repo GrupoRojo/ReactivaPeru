@@ -1,0 +1,140 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="ClienteWeb.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="es">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - Grupo Rojo</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+
+    <webopt:bundlereference runat="server" path="~/Content/css" />
+    <link rel="stylesheet" href="cbs/forma.css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+</head>
+<body>
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--To learn more about bundling scripts in ScriptManager see https://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                <%--Framework Scripts--%>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="bootstrap" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+                <%--Site Scripts--%>
+            </Scripts>
+        </asp:ScriptManager>
+
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" runat="server" href="~/">Grupo ROJO - Reactiva Perú</a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a runat="server" href="~/Registro">Registro</a></li>
+                        <li><a runat="server" href="~/Ingreso">Ingreso</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            <hr />
+
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-3">
+			<div class="persona1">
+				<dl>
+					<dt>CALVO ARTEAGA</dt>
+					<dd>Carlos Antonio</dd>
+					<a class="prs1" runat="server" href="~/"></a>
+					<dd>016200186D</dd>
+				</dl>
+			</div>
+		</div>
+		<div class="col-md-3">
+			<div class="persona2">
+                <dl>
+					<dt>COBOS VARGAS</dt>
+					<dd>Irvin Julian</dd>
+					<a class="prs2" runat="server" href="~/"></a>
+					<dd>016200330H</dd>
+				</dl>
+			</div>
+		</div>
+		<div class="col-md-3">
+			<div class="persona1">
+				<dl>
+					<dt>CUADROS BOLAÑOS</dt>
+					<dd>William Ronaldo</dd>
+					<a class="prs3" runat="server" href="~/"></a>
+					<dd>016200380E</dd>
+				</dl>
+			</div>
+		</div>
+		<div class="col-md-3">
+			<div class="persona2">
+				<dl>
+					<dt>FLORES ENRIQUE</dt>
+					<dd>Gareth Enrique</dd>
+					<a class="prs4" runat="server" href="~/"></a>
+					<dd>009100946</dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+</div>
+<hr />
+    <div class="centro">
+        <a class="logor" runat="server" href="~/">&copy;</a>
+    </div>
+<hr />
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-3">
+            <a class="vinculo" href="https://www.layoutit.com/build">layoutit</a>
+		</div>
+		<div class="col-md-3">
+            <a class="vinculo" href="https://github.com/gruporojo">github</a>
+		</div>
+		<div class="col-md-3">
+            <a class="vinculo" href="https://gruporojo2020.blogspot.com/">blogspot</a>
+		</div>
+		<div class="col-md-3">
+            <a class="vinculo" href="https://trello.com/b/mQTZ96Q4/actividades">trello</a>
+		</div>
+	</div>
+</div>
+
+            <hr />
+            <footer class="pie">
+                <p>Todos los derechos reservados. &copy; <%: DateTime.Now.Year %> - Grupo Rojo</p>
+            </footer>
+        </div>
+
+    </form>
+</body>
+</html>

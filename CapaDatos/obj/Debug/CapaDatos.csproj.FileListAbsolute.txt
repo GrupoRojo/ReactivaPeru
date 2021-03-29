@@ -1,0 +1,12 @@
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru\SolutionCV\CapaDatos\bin\Debug\CapaDatos.dll
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru\SolutionCV\CapaDatos\bin\Debug\CapaDatos.pdb
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru\SolutionCV\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru\SolutionCV\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru\SolutionCV\CapaDatos\obj\Debug\CapaDatos.dll
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru\SolutionCV\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\001 Mega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru\SolutionCV\CapaDatos\bin\Debug\CapaDatos.dll
+E:\001 Mega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru\SolutionCV\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\001 Mega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru\SolutionCV\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+E:\001 Mega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru\SolutionCV\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+E:\001 Mega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru\SolutionCV\CapaDatos\obj\Debug\CapaDatos.dll
+E:\001 Mega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru\SolutionCV\CapaDatos\obj\Debug\CapaDatos.pdb
