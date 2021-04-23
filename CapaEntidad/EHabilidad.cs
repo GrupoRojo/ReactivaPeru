@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-// serializar la clase para q sea multilenguaje, multiplataforma
+//Serializo para q sea multilenguaje, multiplataforma
 using System.Runtime.Serialization;
 
 namespace CapaEntidad
@@ -21,9 +21,9 @@ namespace CapaEntidad
         public string Nombre { get; set; }
 
         [DataMember]
-        public int Nivel { get; set; }
+        public string Nivel { get; set; }
 
-        [DataMember]
+        [DataMember] //pertenece a una cuenta
         public int CodCuenta { get; set; }
     }
 }

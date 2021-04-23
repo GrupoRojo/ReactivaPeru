@@ -4,12 +4,12 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8959B442-82DD-406B-9E85-FECDAC18DDCA}</ProjectGuid>
+    <ProjectGuid>{1158F75D-BB59-421C-ACA7-1C44D4AE1B04}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>CapaNegocio</RootNamespace>
     <AssemblyName>CapaNegocio</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
@@ -41,33 +41,35 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Correo.cs" />
-    <Compile Include="Cuenta.cs" />
-    <Compile Include="Estudio.cs" />
-    <Compile Include="Fono.cs" />
-    <Compile Include="Habilidad.cs" />
-    <Compile Include="Info.cs" />
-    <Compile Include="Interfaces\ICorreo.cs" />
-    <Compile Include="Interfaces\ICuenta.cs" />
-    <Compile Include="Interfaces\IEstudio.cs" />
-    <Compile Include="Interfaces\IFono.cs" />
-    <Compile Include="Interfaces\IHabilidad.cs" />
-    <Compile Include="Interfaces\IInfo.cs" />
-    <Compile Include="Interfaces\IRedSocial.cs" />
-    <Compile Include="Interfaces\ITrabajo.cs" />
-    <Compile Include="Interfaces\IUbigeo.cs" />
+    <Compile Include="Interaces\ICorreo.cs" />
+    <Compile Include="Interaces\ICuenta.cs" />
+    <Compile Include="Interaces\IEstudio.cs" />
+    <Compile Include="Interaces\IHabilidad.cs" />
+    <Compile Include="Interaces\IInfo.cs" />
+    <Compile Include="Interaces\IRedSocial.cs" />
+    <Compile Include="Interaces\ITelefono.cs" />
+    <Compile Include="Interaces\ITrabajo.cs" />
+    <Compile Include="Interaces\IUbigeo.cs" />
+    <Compile Include="Interaces\IVisitante.cs" />
+    <Compile Include="NCorreo.cs" />
+    <Compile Include="NCuenta.cs" />
+    <Compile Include="NEstudio.cs" />
+    <Compile Include="NHabilidad.cs" />
+    <Compile Include="NInfo.cs" />
+    <Compile Include="NRedSocial.cs" />
+    <Compile Include="NTelefono.cs" />
+    <Compile Include="NTrabajo.cs" />
+    <Compile Include="NUbigeo.cs" />
+    <Compile Include="NVisitante.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RedSocial.cs" />
-    <Compile Include="Trabajo.cs" />
-    <Compile Include="Ubigeo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CapaDatos\CapaDatos.csproj">
-      <Project>{c65b2480-21a7-4548-bbc5-3fae489b1988}</Project>
+      <Project>{360afd1d-1d7b-4937-84fd-1f9265062716}</Project>
       <Name>CapaDatos</Name>
     </ProjectReference>
     <ProjectReference Include="..\CapaEntidad\CapaEntidad.csproj">
-      <Project>{2950a53f-b2b8-4533-b040-30a491ddaa68}</Project>
+      <Project>{1e6aef6d-f784-4ffc-9a27-8cc987a04029}</Project>
       <Name>CapaEntidad</Name>
     </ProjectReference>
   </ItemGroup>

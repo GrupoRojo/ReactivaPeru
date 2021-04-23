@@ -1,12 +1,6 @@
-F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru\SolutionCV\CapaEntidad\bin\Debug\CapaEntidad.dll
-F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru\SolutionCV\CapaEntidad\bin\Debug\CapaEntidad.pdb
-F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru\SolutionCV\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
-F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru\SolutionCV\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
-F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru\SolutionCV\CapaEntidad\obj\Debug\CapaEntidad.dll
-F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru\SolutionCV\CapaEntidad\obj\Debug\CapaEntidad.pdb
-E:\001 Mega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru\SolutionCV\CapaEntidad\bin\Debug\CapaEntidad.dll
-E:\001 Mega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru\SolutionCV\CapaEntidad\bin\Debug\CapaEntidad.pdb
-E:\001 Mega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru\SolutionCV\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
-E:\001 Mega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru\SolutionCV\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
-E:\001 Mega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru\SolutionCV\CapaEntidad\obj\Debug\CapaEntidad.dll
-E:\001 Mega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru\SolutionCV\CapaEntidad\obj\Debug\CapaEntidad.pdb
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru2\SolutionCV\CapaEntidad\bin\Debug\CapaEntidad.dll
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru2\SolutionCV\CapaEntidad\bin\Debug\CapaEntidad.pdb
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru2\SolutionCV\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru2\SolutionCV\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru2\SolutionCV\CapaEntidad\obj\Debug\CapaEntidad.dll
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru2\SolutionCV\CapaEntidad\obj\Debug\CapaEntidad.pdb

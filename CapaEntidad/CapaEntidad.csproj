@@ -4,12 +4,12 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2950A53F-B2B8-4533-B040-30A491DDAA68}</ProjectGuid>
+    <ProjectGuid>{1E6AEF6D-F784-4FFC-9A27-8CC987A04029}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>CapaEntidad</RootNamespace>
     <AssemblyName>CapaEntidad</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
@@ -45,10 +45,10 @@
     <Compile Include="ECorreo.cs" />
     <Compile Include="ECuenta.cs" />
     <Compile Include="EEstudio.cs" />
-    <Compile Include="EFono.cs" />
     <Compile Include="EHabilidad.cs" />
     <Compile Include="EInfo.cs" />
     <Compile Include="ERedSocial.cs" />
+    <Compile Include="ETelefono.cs" />
     <Compile Include="ETrabajo.cs" />
     <Compile Include="EUbigeo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

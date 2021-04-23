@@ -1,0 +1,6 @@
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru2\SolutionCV\CapaEntidad\bin\Release\CapaEntidad.dll
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru2\SolutionCV\CapaEntidad\bin\Release\CapaEntidad.pdb
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru2\SolutionCV\CapaEntidad\obj\Release\CapaEntidad.csprojAssemblyReference.cache
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru2\SolutionCV\CapaEntidad\obj\Release\CapaEntidad.csproj.CoreCompileInputs.cache
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru2\SolutionCV\CapaEntidad\obj\Release\CapaEntidad.dll
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\ReactivaPeru2\SolutionCV\CapaEntidad\obj\Release\CapaEntidad.pdb

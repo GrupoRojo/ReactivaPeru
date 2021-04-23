@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-// serializar la clase para q sea multilenguaje, multiplataforma
+//Serializo para q sea multilenguaje, multiplataforma
 using System.Runtime.Serialization;
 
 namespace CapaEntidad

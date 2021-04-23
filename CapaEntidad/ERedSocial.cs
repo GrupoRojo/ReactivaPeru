@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-// serializar la clase para q sea multilenguaje, multiplataforma
+//Serializo para q sea multilenguaje, multiplataforma
 using System.Runtime.Serialization;
 
 namespace CapaEntidad
@@ -23,7 +23,7 @@ namespace CapaEntidad
         [DataMember]
         public string Ruta { get; set; }
 
-        [DataMember]
+        [DataMember] //pertenece a una cuenta
         public int CodCuenta { get; set; }
     }
 }
